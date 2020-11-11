@@ -43,7 +43,7 @@ header ul li {
     margin-left: 25px;
 }
 
-/* Text */
+/* Text Styles*/
 a {
     color: #ffffff;
     text-decoration: none;
@@ -74,7 +74,7 @@ p {
     margin-left: 25px;
 }
 
-/* Main */
+/* Main Content*/
 main {
     width: 75%;
     display: inline-block;
