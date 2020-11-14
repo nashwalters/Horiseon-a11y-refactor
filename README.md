@@ -8,6 +8,7 @@ This page is a refactor of a code from a marketing agency that wanted a codebase
 * [Screenshot](#screenshot)
 * [Credits](#credits)
 * [License](#license)
+
 ## General Information
 
 It is a known fact that accessible sites are not only important for search engine optimization, but also to provide equal access and equal opportunity for people with disabilities to participate more actively in society.
@@ -23,8 +24,9 @@ Below is a list of a few things that were done to make the web page more accessi
 
 ## Installation
 A web browser is need to view page as it was made using HTML and CSS
-* Github page
-[https://nashwalters.github.io/horiseon-a11y-refactor/.](https://nashwalters.github.io/horiseon-a11y-refactor/.)
+* Github page:[https://nashwalters.github.io/horiseon-a11y-refactor/.](https://nashwalters.github.io/horiseon-a11y-refactor/.)
+
+* To open in a new window copy and paste the link: https://nashwalters.github.io/horiseon-a11y-refactor/.
 
 ## Screenshot
 Below is what the page should look like.
