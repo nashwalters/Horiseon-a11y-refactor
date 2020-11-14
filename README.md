@@ -11,7 +11,7 @@ For a marketing agency an accessible website is an easy way to do business. It i
 Below is a list of a few things that were done to make the wesite more accessible:
 * Ensured that all internal links are working.
 * The use of alt attribute in img tags.
-* The use of semantic tags (header, nav, main, etc.)
+* The use of semantic tags (header, nav, main, etc.) to replace div tags.
 
 ## Installation
 * Github page
