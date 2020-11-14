@@ -24,10 +24,9 @@ Below is a list of a few things that were done to make the web page more accessi
 
 ## Installation
 A web browser is need to view page as it was made using HTML and CSS
-* Github page:[https://nashwalters.github.io/horiseon-a11y-refactor/.](https://nashwalters.github.io/horiseon-a11y-refactor/.)
+* Github page: [https://nashwalters.github.io/horiseon-a11y-refactor/.](https://nashwalters.github.io/horiseon-a11y-refactor/.)
 
-* To open in a new window copy and paste the link: https://nashwalters.github.io/horiseon-a11y-refactor/.
-
+* To open in a new window, copy and paste: http://<span></span>nashwalters.github.io/horiseon-a11y-refactor/.
 ## Screenshot
 Below is what the page should look like.
 <img src="assets/images/screencapture.png" alt="Screencapture of page">
