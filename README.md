@@ -14,9 +14,9 @@ Below is a list of a few things that were done to make the wesite more accessibl
 * The use of semantic tags (header, nav, main, etc.)
 
 ## Installation
+* Github page
 
 
-##
 
 
 ## Licence
