@@ -20,3 +20,4 @@ Below is a list of a few things that were done to make the wesite more accessibl
 
 
 ## Licence
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
