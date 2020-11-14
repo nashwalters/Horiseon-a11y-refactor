@@ -22,7 +22,7 @@ Below is a list of a few things that were done to make the wesite more accessibl
 ## Installation
 A web browser is need to view page as it was made using HTML and CSS
 * Github page
-[]()
+[https://nashwalters.github.io/horiseon-a11y-refactor/.](https://nashwalters.github.io/horiseon-a11y-refactor/.)
 
 ## Screenshot
 Below is what the page should look like.
@@ -31,8 +31,8 @@ Below is what the page should look like.
 ## Credits
 * Carleton University Coding Bootcamp team
 * [Adam Simonini](https://github.com/adamsimonini)
-* [TanUv90](https://www.youtube.com/watch?v=hHbWF1Bvgf4&t=5s)- How to link an image in Github readme.md
+* [TanUv90-Youtube](https://www.youtube.com/watch?v=hHbWF1Bvgf4&t=5s)- How to link an image in Github readme.md
 
 ## License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-THis code is licensed with [MIT License](https://github.com/nashwalters/horiseon-a11y-refactor/blob/main/LICENSE)
+This code is licensed with [MIT License](https://github.com/nashwalters/horiseon-a11y-refactor/blob/main/LICENSE)
 
